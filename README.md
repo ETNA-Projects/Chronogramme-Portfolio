@@ -1,11 +1,11 @@
-# Sphere — Chronogramme de planification
+# Chronogramme de planification — Portfolio
 
-Planification et chronogramme du projet Sphere dans le cadre du module SPE-ING5 (Spécialisation Ingénierie). Ce dépôt contient le planning détaillé des phases du projet sous forme de diagramme de Gantt.
+Planification et chronogramme dans le cadre du module SPE-ING5 (Spécialisation Ingénierie — Communauté : Développement d'application web, mobile et UI/UX).
 
 ## Contenu
 
 - `SPE-ING5 - Chronogramme.xlsx` — Fichier source du chronogramme (Excel)
-- `SPE-ING5 - Chronogramme - Feuille 1.pdf` — Export PDF du planning
+- `SPE-ING5 - Chronogramme - Feuille 1.pdf` — Export PDF du chronogramme
 
 ## Module ETNA
 
